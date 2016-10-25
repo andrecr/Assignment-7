@@ -22,7 +22,7 @@ This impacts on global weather systems, causing everything from unexpected rainf
 Nowadays, many cities across the country and around the world are being affected by this problem. This won't stop and the consequences could be worst in the next 30 years.
 
 Here is how much flooding events can increase in the main cities of the US.
-![chart 1](https://cloud.githubusercontent.com/assets/22039989/19704733/d9c93ea6-9ad6-11e6-9818-8bfc77674347.jpeg)
+![chart 2](https://cloud.githubusercontent.com/assets/22039989/19704761/02765ff0-9ad7-11e6-9553-3fab6e51d710.jpeg)
 
 Is in our hands to take action now on the problem to built a more sustainable future.
 
